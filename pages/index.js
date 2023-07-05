@@ -6,7 +6,7 @@
 * 
 *  Name: _____Emiliya Aghayeva_________________ Student ID: _____148398217_____________ Date: ___________________01/07/2023
 *
-* Link: 
+*  Netlify Link: https://dreamy-choux-a688d8.netlify.app 
 ********************************************************************************/ 
 
 import React from 'react';
